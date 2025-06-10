@@ -5,7 +5,7 @@
 ## 📘 Basic Bayesian
 
 * **1995** — *Bayesian Data Analysis* — *Andrew Gelman, John B. Carlin, Hal S. Stern, et al.*
-  Foundational textbook introducing Bayesian modeling and computation.
+  Foundational textbook introducing Bayesian modeling and computation. ⭐(1)
   [📬 Join discussion](https://github.com/ShouyeLiu/ReadingList/issues?q=Bayesian+Data+Analysis)
 
 * **2002** — *Likelihood, Bayesian and MCMC Methods in Quantitative Genetics* — *Daniel Sorensen, Daniel Gianola, et al.*
@@ -13,7 +13,7 @@
   [📬 Join discussion](https://github.com/ShouyeLiu/ReadingList/issues?q=Likelihood,+Bayesian+and+MCMC+Methods+in+Quantitative+Genetics)
 
 * **2008** — *Monte Carlo Statistical Methods* — *George Casella, Christian Robert*
-  Classic on Monte Carlo methods with Bayesian applications. 🟡 *reading*
+  Classic on Monte Carlo methods with Bayesian applications. ⭐(1)  🟡 *reading*
   [📬 Join discussion](https://github.com/ShouyeLiu/ReadingList/issues?q=Monte+Carlo+Statistical+Methods)
 
 * **2024** — *Bayesian Inference: Theory, Methods, Computation, and Applications* — *Silvelyn Zwanzig, Rauf Ahmad*
